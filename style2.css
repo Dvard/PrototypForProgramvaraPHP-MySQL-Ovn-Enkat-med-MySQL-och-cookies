@@ -1,0 +1,39 @@
+form {
+    text-align: left;
+}
+
+label {
+    padding: 10px;
+    border-radius: 20px;
+    background-color: lightblue;
+    width: 80%;
+    margin: 20px;
+}
+
+input {
+    margin: 20px;
+}
+
+.result-bar {
+    height: 10px;
+    background-color: #1f1f1f;
+}
+
+#bar-none, #bar-some, #bar-more {
+    height: 10px;
+    background-color: #00838f;
+}
+
+.bar {
+    float: left;
+    margin-bottom: 50px;
+}
+
+.comment {
+    border-radius: 10px;
+    border: 1px solid #1f1f1f;
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+}

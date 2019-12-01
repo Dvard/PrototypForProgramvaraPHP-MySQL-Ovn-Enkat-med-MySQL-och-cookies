@@ -1,0 +1,23 @@
+.vote-negative {
+    background-color: #e91e63;
+}
+
+#result-bar {
+    width: 70%;
+    background-color: lightgray;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#bar-yes, #bar-no {
+    height: 10px;
+    float: left;
+}
+
+#bar-yes {
+    background-color: green;
+}
+
+#bar-no {
+    background-color: lightcoral;
+}
